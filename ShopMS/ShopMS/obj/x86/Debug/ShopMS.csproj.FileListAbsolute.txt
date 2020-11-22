@@ -1,0 +1,10 @@
+C:\Users\MANOJ\documents\visual studio 2010\Projects\ShopMS\ShopMS\obj\x86\Debug\ShopMS.frmAdmin.resources
+C:\Users\MANOJ\documents\visual studio 2010\Projects\ShopMS\ShopMS\obj\x86\Debug\ShopMS.frmLogin.resources
+C:\Users\MANOJ\documents\visual studio 2010\Projects\ShopMS\ShopMS\obj\x86\Debug\ShopMS.frmSignup.resources
+C:\Users\MANOJ\documents\visual studio 2010\Projects\ShopMS\ShopMS\obj\x86\Debug\ShopMS.csproj.GenerateResource.Cache
+C:\Users\MANOJ\documents\visual studio 2010\Projects\ShopMS\ShopMS\bin\Debug\ShopMS.exe
+C:\Users\MANOJ\documents\visual studio 2010\Projects\ShopMS\ShopMS\bin\Debug\ShopMS.pdb
+C:\Users\MANOJ\documents\visual studio 2010\Projects\ShopMS\ShopMS\obj\x86\Debug\ShopMS.Properties.Resources.resources
+C:\Users\MANOJ\documents\visual studio 2010\Projects\ShopMS\ShopMS\obj\x86\Debug\ShopMS.exe
+C:\Users\MANOJ\documents\visual studio 2010\Projects\ShopMS\ShopMS\obj\x86\Debug\ShopMS.pdb
+C:\Users\MANOJ\documents\visual studio 2010\Projects\ShopMS\ShopMS\obj\x86\Debug\ShopMS.frmForgotPassword.resources

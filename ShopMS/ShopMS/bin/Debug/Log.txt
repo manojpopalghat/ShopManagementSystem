@@ -1,0 +1,174 @@
+21-11-2020 12:57 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'ManojPopalghat';
+21-11-2020 12:57 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'ManojPopalghat';
+21-11-2020 12:58 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Manojpopalghat';
+21-11-2020 12:59 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Manojpopalghat';
+21-11-2020 12:59 PM
+Query : INSERT INTO tblEmployees 
+                        (first_name, middle_name, last_name, user_id, password, role, salary, phone_no, email_id, dob, uid, address, sex)
+                        VALUES ('Manoj','','Popalghat','Manojpopalghat','123456789','Admin',10000,-1,'','21 November 2020',-1,'','');
+21-11-2020 1:09 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Jagruti';
+21-11-2020 1:13 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Sayali';
+21-11-2020 1:14 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Sayali';
+21-11-2020 1:14 PM
+Query : INSERT INTO tblEmployees 
+                        (first_name, middle_name, last_name, user_id, password, role, salary, phone_no, email_id, dob, uid, address, sex)
+                        VALUES ('Sayali','','xyz','Sayali','789','Employee',12345,-1,'','21 November 2020',-1,'','');
+21-11-2020 1:15 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Manoj';
+21-11-2020 1:15 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Manojpopalghat';
+21-11-2020 1:15 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Manojpopalghat';
+21-11-2020 1:15 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Manojpopalghat';
+21-11-2020 1:15 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Manojpopalghat';
+21-11-2020 1:15 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Manojpopalghat';
+21-11-2020 1:15 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Manojpopalghat';
+21-11-2020 1:16 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'ManojPopalghat';
+21-11-2020 1:16 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Manojpopalghat';
+21-11-2020 1:20 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Manojpopalghat';
+21-11-2020 1:20 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Manojpopalghat';
+21-11-2020 1:20 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Manojpopalghat';
+21-11-2020 1:22 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Manoj';
+21-11-2020 1:22 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Suraj';
+21-11-2020 1:22 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'suraj';
+21-11-2020 1:22 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Manojpopalghat';
+21-11-2020 1:22 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Manojpopalghat';
+21-11-2020 1:22 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'ManojPopalghat';
+21-11-2020 1:23 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'KetanPatil';
+21-11-2020 1:23 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'KetanPatil';
+21-11-2020 1:23 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Ketanpatil';
+21-11-2020 1:23 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'ketanPatil';
+21-11-2020 1:23 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'ketanPatil';
+21-11-2020 1:23 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'ketanPatil';
+21-11-2020 1:23 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'ketanPatil';
+21-11-2020 1:23 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'ketanpatil';
+21-11-2020 1:23 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Manojpopalghat';
+21-11-2020 1:23 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Manojpopalghat';
+21-11-2020 1:23 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Manojpopalghat';
+21-11-2020 1:23 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Manojpopalghat';
+21-11-2020 1:24 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = ' Manojpopalghat';
+21-11-2020 1:24 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = ' Manojpopalghat';
+21-11-2020 1:24 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = ' manojpopalghat';
+21-11-2020 1:24 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'harshalpatil';
+21-11-2020 1:24 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Harshalpatil';
+21-11-2020 1:24 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'HarshalPatil';
+21-11-2020 1:24 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'harshalPatil';
+21-11-2020 1:24 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'harshalPatil';
+21-11-2020 1:28 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Suraj';
+21-11-2020 1:28 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Suraj';
+21-11-2020 1:28 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Suraj';
+21-11-2020 2:06 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'manojpopalghat' and password = 'manojpopalghat' COLLATE SQL_Latin1_General_Cp1_CS_AS;
+21-11-2020 2:06 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'manojpopalghat' and password = 'manojpopalghat' COLLATE SQL_Latin1_General_Cp1_CS_AS;
+21-11-2020 2:08 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'ManojPopalghat' and password = 'ManojPopalghat' COLLATE SQL_Latin1_General_Cp1_CS_AS;
+21-11-2020 2:08 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'ManojPopalghat' and password = 'ManojPopalghat' COLLATE SQL_Latin1_General_Cp1_CS_AS;
+21-11-2020 2:08 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'ManojPopalghat' and password = 'ManojPopalghat' COLLATE SQL_Latin1_General_Cp1_CS_AS;
+21-11-2020 2:08 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Suraj' and password = 'Suraj' COLLATE SQL_Latin1_General_Cp1_CS_AS;
+21-11-2020 2:09 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Manojpopalghat' and password = '' COLLATE SQL_Latin1_General_Cp1_CS_AS;
+21-11-2020 2:10 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Manojpopalghat' and password = ' ' COLLATE SQL_Latin1_General_Cp1_CS_AS;
+21-11-2020 2:10 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Manojpopalghat' and password = '123' COLLATE SQL_Latin1_General_Cp1_CS_AS;
+21-11-2020 2:11 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'suraj' and password = '123' COLLATE SQL_Latin1_General_Cp1_CS_AS;
+21-11-2020 2:15 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Manojpopalghat' COLLATE SQL_Latin1_General_Cp1_CS_AS and password = '' COLLATE SQL_Latin1_General_Cp1_CS_AS;
+21-11-2020 2:15 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Manojpopalghat' COLLATE SQL_Latin1_General_Cp1_CS_AS and password = ' ' COLLATE SQL_Latin1_General_Cp1_CS_AS;
+21-11-2020 2:15 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'ManojPopalghat' COLLATE SQL_Latin1_General_Cp1_CS_AS and password = '' COLLATE SQL_Latin1_General_Cp1_CS_AS;
+21-11-2020 2:15 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'ManojPopalghat' COLLATE SQL_Latin1_General_Cp1_CS_AS and password = '' COLLATE SQL_Latin1_General_Cp1_CS_AS;
+21-11-2020 2:18 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Suraj' COLLATE SQL_Latin1_General_Cp1_CS_AS and password = '123' COLLATE SQL_Latin1_General_Cp1_CS_AS;
+21-11-2020 2:18 PM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'SuraJ' COLLATE SQL_Latin1_General_Cp1_CS_AS and password = '123' COLLATE SQL_Latin1_General_Cp1_CS_AS;
+22-11-2020 7:37 AM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Suraj' COLLATE SQL_Latin1_General_Cp1_CS_AS and password = '' COLLATE SQL_Latin1_General_Cp1_CS_AS;
+22-11-2020 7:37 AM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Suraj' COLLATE SQL_Latin1_General_Cp1_CS_AS and password = '' COLLATE SQL_Latin1_General_Cp1_CS_AS;
+22-11-2020 7:37 AM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Suraj' COLLATE SQL_Latin1_General_Cp1_CS_AS and password = '123' COLLATE SQL_Latin1_General_Cp1_CS_AS;
+22-11-2020 7:38 AM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Manok' COLLATE SQL_Latin1_General_Cp1_CS_AS;
+22-11-2020 7:38 AM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Manoj' COLLATE SQL_Latin1_General_Cp1_CS_AS;
+22-11-2020 7:38 AM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'ManojPopalghat' COLLATE SQL_Latin1_General_Cp1_CS_AS;
+22-11-2020 9:29 AM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'manojpopalghat' COLLATE SQL_Latin1_General_Cp1_CS_AS and email_id <> '' COLLATE SQL_Latin1_General_Cp1_CS_AS;
+22-11-2020 9:30 AM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'ManojPopalghat' COLLATE SQL_Latin1_General_Cp1_CS_AS and email_id <> '' COLLATE SQL_Latin1_General_Cp1_CS_AS;
+22-11-2020 9:30 AM
+(Email Exception) The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. Learn more at
+22-11-2020 9:34 AM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'Manojpopalghat' COLLATE SQL_Latin1_General_Cp1_CS_AS and email_id <> '' COLLATE SQL_Latin1_General_Cp1_CS_AS;
+22-11-2020 9:34 AM
+(Email Exception) The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. Learn more at
+22-11-2020 9:35 AM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'ManojPopalghat' COLLATE SQL_Latin1_General_Cp1_CS_AS and email_id <> '' COLLATE SQL_Latin1_General_Cp1_CS_AS;
+22-11-2020 9:35 AM
+(Email Exception) The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. Learn more at
+22-11-2020 9:43 AM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'ManojPopalghat' COLLATE SQL_Latin1_General_Cp1_CS_AS and email_id <> '' COLLATE SQL_Latin1_General_Cp1_CS_AS;
+22-11-2020 11:03 AM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'ManojPopalghat' COLLATE SQL_Latin1_General_Cp1_CS_AS and email_id <> '' COLLATE SQL_Latin1_General_Cp1_CS_AS;
+22-11-2020 11:08 AM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'ManojPopalghat' COLLATE SQL_Latin1_General_Cp1_CS_AS and email_id <> '' COLLATE SQL_Latin1_General_Cp1_CS_AS;
+22-11-2020 11:12 AM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'ManojPopalghat1' COLLATE SQL_Latin1_General_Cp1_CS_AS and email_id <> '' COLLATE SQL_Latin1_General_Cp1_CS_AS;
+22-11-2020 11:12 AM
+Query : SELECT * FROM tblEmployees WHERE user_id = 'ManojPopalghat' COLLATE SQL_Latin1_General_Cp1_CS_AS and email_id <> '' COLLATE SQL_Latin1_General_Cp1_CS_AS;
+22-11-2020 11:14 AM
+Query : UPDATE tblEmployees SET password = 'Msp' WHERE user_id='ManojPopalghat' COLLATE SQL_Latin1_General_Cp1_CS_AS;
